@@ -2,7 +2,7 @@
 
 This repository contains the source code for an iOS application designed to enhance the smart packaging of perishable fruits. The app detects whether a fruit is edible based on the label attached to it. The labels are in two colors: red and algae-green. The app uses QR code detection to read the labels and OpenCV for color detection.
 
-![Information Page](/IMG_2112.png)  ![Photo_page](/IMG_2118.png)
+![Information Page](/IMG_2112.PNG)  ![Photo_page](/IMG_2118.PNG)
 
 ## Features
 
